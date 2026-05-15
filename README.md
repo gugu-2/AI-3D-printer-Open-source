@@ -10,6 +10,8 @@
 
 **QuantumForge** is a next-generation 3D printing slicer engineered for advanced workflows, incorporating AI-driven analysis, volumetric multi-material painting, and seamless filament ecosystem integration.
 
+## Front end is created but haven't integrated yet
+
 ## Key Features & How to Use Them
 
 ### 1. Voxel-Based Multi-Material Painting with Gradients
