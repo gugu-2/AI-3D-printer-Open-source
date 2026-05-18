@@ -77,7 +77,9 @@ We use `Catch2` for unit testing. To run the tests for the newly added Voxel/NFC
 ## BMCU
 I also encourage you to use BMCU. You can find BMCU firmware in my repositories.
 
+### Email me on majipritam47@gmail.com For any enquiry
+
 </div>
 
 
-### Email me on majipritam47@gmail.com For any enquiry
+
