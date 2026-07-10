@@ -46,6 +46,7 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 ```
 Restart Windows, then launch QuantumForge.
 
+
 ### Linux
 On Linux, a normal installation is enough.
 
