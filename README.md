@@ -8,6 +8,7 @@
 # Welcome to QuantumForge 
 *(Worked for last 1.5 years with 1 million plus code)*
 
+
 **QuantumForge** is a next-generation 3D printing slicer engineered for advanced workflows, incorporating AI-driven analysis, volumetric multi-material painting, and seamless filament ecosystem integration.
 
 ## Front end is created but haven't integrated yet
