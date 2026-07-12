@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <picture>
   <!-- TODO: Update logo to QuantumForge logo -->
   <img alt="QuantumForge logo" src="resources/images/QuantumForge.png" width="15%" height="15%">
